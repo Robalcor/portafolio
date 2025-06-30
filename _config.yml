@@ -1,4 +1,6 @@
 title: Roberto Aldaz Corona
 logo: /assets/img/headshot_circule.png
 show_downloads: True
-theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
