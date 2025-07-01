@@ -63,7 +63,7 @@ Este estudio examina el embudo de ventas de una app de una compañía de aliment
 **Evaluación del embudo de ventas**: Se definieron los eventos principales y se midió el porcentaje de usuarios que transitan de una etapa a otra.
 **Pruebas A/A/B**: Se analizaron las tasas de conversión entre los grupos de control y el experimental utilizando métodos estadísticos para validar diferencias significativas.
 
-### Hallazgos y sugerencias
+## Hallazgos y sugerencias
 
 **Análisis del embudo de ventas:**
 La mayor pérdida de usuarios ocurre en la etapa "OffersScreenAppear", con un 61.9% de abandonos.
@@ -121,11 +121,11 @@ Preferencias regionales:
 1. Occidente: Dominio de acción/disparos en Xbox/PlayStation.
 2. Japón: Predominio de RPG en portátiles (3DS).
 Influencia de reseñas:
-1. Críticos: impactan ventas (r≈0.41)
+1. Críticos: impactan ventas (r≈0.35)
 2. usuarios: mínimo efecto.
 La brecha comercial entre géneros sugiere que los juegos con narrativas inmersivas (RPG) o mecánicas competitivas (deportes/disparos) tienen mayor aceptación global.
 
-### Resultados clave:
+## Resultados clave:
 Xbox One y PC: calificaciones similares.
 Acción vs. Deportes: diferencias significativas.
 
@@ -146,3 +146,46 @@ Se observa una correlación moderada (coeficiente ~0.4) entre las valoraciones d
 Las reseñas profesionales influyen parcialmente en las decisiones de compra.
 Los consumidores no basan su elección únicamente en este factor (otros elementos como franquicias, marketing o preferencias personales podrían tener mayor peso).
 ![critica](assets/img/games_critic_score_correlacion.png)
+
+repositocio
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/Robalcor/Games).**
+
+## Análisis de retención de clientes para Model Fitness
+La retención de clientes es clave en cualquier industria para garantizar ingresos recurrentes y reducir costos de captación (hasta 5 veces más altos). En Model Fitness, el análisis de factores de retención y cancelación permite anticipar abandonos, crear programas de fidelización basados en datos y ofrecer experiencias personalizadas que aumenten el engagement.
+
+#### Herramientas y tipo de proyecto
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
+![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
+![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
+![Modelos de predicción](https://img.shields.io/badge/Modelos_de_predicción-295F98?style=for-the-badge)
+
+### Preguntas Clave
+¿Qué variables (demográficas o de uso) impactan más en la cancelación?
+¿Cómo difieren los clientes leales frente a los que abandonan?
+¿Qué segmentos permiten estrategias de retención personalizadas?
+
+### Metodología
+Limpieza de datos: Eliminación de duplicados, valores nulos y estandarización.
+EDA: Identificación de patrones en cancelaciones (ej: frecuencia de visita, tipo de contrato).
+Modelado predictivo: Logistic Regression (72% precisión) y Random Forest (81%) para predecir cancelaciones.
+Clustering: Segmentación con K-means para agrupar clientes por comportamiento.
+
+## Hallazgos Clave
+Retención alta: Clientes cercanos al gimnasio, con contratos largos (+6 meses) y participación en clases grupales.
+Riesgo de cancelación: Jóvenes con contratos mensuales y baja asistencia.
+
+###Acciones Recomendadas
+Incentivar contratos largos: Descuentos por compromisos de 3+ meses.
+
+Impulsar clases grupales: Campañas destacando beneficios sociales y motivacionales.
+
+Intervención temprana: Usar el modelo para alertar sobre clientes en riesgo y ofrecer promociones ad-hoc.
+
+Segmentación inicial: Clasificar nuevos clientes por perfil (edad/contrato) para estrategias preventivas.
+
+## visualizaciones
+
