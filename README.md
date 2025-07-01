@@ -123,6 +123,7 @@ Preferencias regionales:
 Influencia de reseñas:
 1. Críticos: impactan ventas (r≈0.41)
 2. usuarios: mínimo efecto.
+La brecha comercial entre géneros sugiere que los juegos con narrativas inmersivas (RPG) o mecánicas competitivas (deportes/disparos) tienen mayor aceptación global.
 
 ### Resultados clave:
 Xbox One y PC: calificaciones similares.
@@ -134,3 +135,14 @@ Localizar estrategias: RPG en Japón; acción/disparos en Occidente.
 
 ## Visualizaciones
 
+**Análisis de ventas por género**
+Tendencias destacadas:
+- Géneros más vendidos: Acción, disparos (shooters), juegos de rol (RPG) y deportes lideran el mercado.
+- Géneros con menor demanda: Rompecabezas y estrategia registran ventas significativamente más bajas.
+![ventas](assets/img/games_ventas_por_genero.png)
+
+**Relación entre críticas y desempeño comercial**
+Se observa una correlación moderada (coeficiente ~0.4) entre las valoraciones de expertos y el volumen de ventas, lo que sugiere que:
+Las reseñas profesionales influyen parcialmente en las decisiones de compra.
+Los consumidores no basan su elección únicamente en este factor (otros elementos como franquicias, marketing o preferencias personales podrían tener mayor peso).
+![critica](assets/img/games_critic_score_correlacion.png)
