@@ -147,7 +147,7 @@ Las reseñas profesionales influyen parcialmente en las decisiones de compra.
 Los consumidores no basan su elección únicamente en este factor (otros elementos como franquicias, marketing o preferencias personales podrían tener mayor peso).
 ![critica](assets/img/games_critic_score_correlacion.png)
 
-repositocio
+repositorio
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/Robalcor/Games).**
 
 ## Análisis de retención de clientes para Model Fitness
@@ -189,3 +189,19 @@ Segmentación inicial: Clasificar nuevos clientes por perfil (edad/contrato) par
 
 ## visualizaciones
 
+**histogramas de compararion de de caracteristicas no binarias**
+Al examinar los patrones entre clientes que permanecen y aquellos que cancelan, emergen dos tendencias claras:
+
+Patrón de contratación
+Los clientes que cancelan muestran una marcada preferencia por compromisos a corto plazo, con una abrumadora mayoría optando por membresías mensuales. En contraste, los clientes leales tienden a seleccionar planes de mayor duración.
+
+Perfil demográfico
+Se observa una concentración notable de cancelaciones entre usuarios menores de 30 años, mientras que la base de clientes más estables presenta un rango de edad significativamente mayor.
+![caracteristicas_no_binarias](assets/img/relacion_binario.png)
+
+**clusteres**
+El dendrograma revela que los clientes se organizan naturalmente en 4 segmentos diferenciados, agrupados según sus características y patrones de comportamiento clave, lo que permite diseñar estrategias de retención personalizadas para cada perfil.
+![cluster](assets/img/cluster.png)
+
+repositorio
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/Robalcor/Model_Fitness).**
