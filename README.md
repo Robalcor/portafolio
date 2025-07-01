@@ -30,7 +30,9 @@ Motivación
 "Quiero ser mejor mañana de lo que soy hoy" – Busco oportunidades donde pueda aplicar mis habilidades técnicas mientras aprendo de profesionales experimentados. Abierto a colaboraciones, proyectos desafiantes y mentorías.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-aldaz-corona/)
 [![Gmail](https://img.shields.io/badge/Microsoft_Outlook-295F98?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:roberto.aldaz@gmail.com)
-***
+
+* * *
+
 # Proyectos seleccionados
 
 ## Compoertamiento de usuarios y Embudo de ventas
@@ -84,4 +86,51 @@ Explorar otras modificaciones en la interfaz o funcionalidades que puedan tener 
 
  2. **Intervalo de análisis:** El conjunto de datos completo tiene registros desde el 1 de agosto de 2019, por lo que se excluyó información previa a esta fecha. El periodo evaluado finalmente comprende la primera semana de agosto de 2019 (del 1 al 7 de agosto).
  ![periodo](/assets/img/line_11.png)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/Robalcor/test_a-a-b).**
+
+## Analisis de venta de videojuegos
+Análisis de ventas de videojuegos por región, plataforma y género para identificar patrones clave, permitiendo a Ice detectar proyectos con alto potencial y diseñar campañas publicitarias efectivas. El estudio de las dinámicas de mercado en Norteamérica, Europa y Japón busca optimizar estrategias de marketing y maximizar el ROI en los lanzamientos más prometedores.
+
+### herramientas y tipo de proyecto
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23357ebd.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
+![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
+![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
+![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
+![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
+
+### Puntos clave de investigación
+Tendencias de plataformas: Distribución de ventas globales y variaciones regionales.
+Preferencias de género: Popularidad comparativa en Norteamérica, Europa y Japón.
+Impacto de reseñas: Relación entre puntuaciones (usuarios/críticos) y desempeño comercial.
+Diferencias cualitativas: Calificaciones promedio por plataforma y género.
+
+### Enfoque metodológico
+Limpieza de datos: Eliminación de inconsistencia (datos faltantes/duplicados) y estandarización de formatos.
+EDA: Identificación de patrones en plataformas/géneros y análisis de correlación reseñas-ventas.
+Análisis regional: Contraste de preferencias entre mercados clave.
+Validación estadística: Pruebas de hipótesis para comparar evaluaciones de usuarios.
+
+### Hallazgos y acciones estratégicas
+Preferencias regionales:
+1. Occidente: Dominio de acción/disparos en Xbox/PlayStation.
+2. Japón: Predominio de RPG en portátiles (3DS).
+Influencia de reseñas:
+1. Críticos: impactan ventas (r≈0.41)
+2. usuarios: mínimo efecto.
+
+### Resultados clave:
+Xbox One y PC: calificaciones similares.
+Acción vs. Deportes: diferencias significativas.
+
+### Recomendaciones:
+Priorizar PS4/Xbox One en campañas globales.
+Localizar estrategias: RPG en Japón; acción/disparos en Occidente.
+
+## Visualizaciones
 
