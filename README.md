@@ -1,4 +1,5 @@
-# acerca de mi
+# Portafolio
+## acerca de mi
 Analista de Datos Junior | Python | SQL | Visualización de Datos | En constante aprendizaje
 
 Apasionado por transformar datos en insights accionables. Aunque mi experiencia profesional en tecnología es reciente, mi determinación, capacidad de aprendizaje rápido y mentalidad analítica me impulsan a crecer cada día. Mi objetivo es superarme constantemente y aportar valor a través del análisis de datos.
