@@ -36,7 +36,7 @@ Motivación
 
 # Proyectos seleccionados
 
-## Compoertamiento de usuarios y Embudo de ventas
+## Comportamiento de usuarios y Embudo de ventas
 
 Este estudio examina el embudo de ventas de una app de una compañía de alimentos para detectar en qué fases hay una mayor caída de usuarios. Además, utiliza un experimento A/A/B para evaluar si un cambio en el diseño tipográfico puede incrementar la tasa de conversión frente al diseño original. La finalidad es ofrecer conclusiones respaldadas por datos que orienten las decisiones estratégicas relacionadas con el diseño y la usabilidad de la aplicación.
 
