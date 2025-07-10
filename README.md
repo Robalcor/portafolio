@@ -33,7 +33,6 @@ Apasionado por transformar datos en insights accionables. Mi enfoque combina hab
 
 ## 📚 Formación  
 | Institución          | Programa                          | Tecnologías                          |
-|----------------------|-----------------------------------|--------------------------------------|
 | TripleTen (LatAm)    | Bootcamp de Análisis de Datos     | Python, SQL, Pandas, Visualización   |
 | Técnico en Software  | Desarrollo de Software            | JavaScript, C++, MySQL               |
 
