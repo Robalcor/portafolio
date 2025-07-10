@@ -53,7 +53,8 @@ Apasionado por transformar datos en insights accionables. Mi enfoque combina hab
 
 #### 📌 Hallazgos Clave  
 - **61.9% de abandonos** en la etapa "OffersScreenAppear".  
-- El rediseño tipográfico **no mejoró** las conversiones (test A/A/B).  
+- El rediseño tipográfico **no mejoró** las conversiones (test A/A/B).
+![Funnel](/assets/img/funnel_11.png)
 
 [![Ver Proyecto](https://img.shields.io/badge/Explorar_Proyecto-295F98?style=for-the-badge)](https://github.com/Robalcor/test_a-a-b)
 
@@ -64,7 +65,8 @@ Apasionado por transformar datos en insights accionables. Mi enfoque combina hab
 
 #### 📊 Insights  
 - **Japón:** Prefiere RPG en portátiles (3DS).  
-- **Occidente:** Dominio de acción/disparos (Xbox/PS).  
+- **Occidente:** Dominio de acción/disparos (Xbox/PS).
+![ventas](assets/img/games_ventas_por_genero.png)
 
 [![Ver Proyecto](https://img.shields.io/badge/Explorar_Proyecto-295F98?style=for-the-badge)](https://github.com/Robalcor/Games)
 
@@ -75,7 +77,10 @@ Apasionado por transformar datos en insights accionables. Mi enfoque combina hab
 
 #### 📈 Resultados  
 - **Clientes leales:** Contratos largos (+6 meses) y clases grupales.  
-- **Modelo predictivo:** Random Forest (81% accuracy).  
+- **Modelo predictivo:** Random Forest (81% accuracy).
+- **cluster** El dendrograma revela que los clientes se organizan naturalmente en 4 segmentos diferenciados
+![cluster](assets/img/cluster.png)
+
 
 [![Ver Proyecto](https://img.shields.io/badge/Explorar_Proyecto-295F98?style=for-the-badge)](https://github.com/Robalcor/Model_Fitness)
 
